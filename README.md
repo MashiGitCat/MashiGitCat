@@ -5,9 +5,9 @@
 
 
 
-I am Maheshi and I love to code. Sometimes it is a very big challange for me but I love to be challanged and win them. 
+**bold** I am Maheshi and I love to code. Sometimes it is a very big challange for me but I love to be challanged and win them. 
 
-This is my new Github account because my original one was hacked and I still didn't receive any support reply from Github team. 
+**bold** This is my new Github account because my original one was hacked and I still didn't receive any support reply from Github team. 
 
 Github team can igonore my request, yet I need to push my commits to repos and show people that I am zealous programmer! 
 
