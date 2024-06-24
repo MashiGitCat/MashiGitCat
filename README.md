@@ -2,7 +2,7 @@
 
 **I am Maheshi and I love to code and make beautiful creations.** Sometimes it is a very big challenge for me but I love to be challenged and win them.
 
-**WoderWriters is the project currently I am working on and , please find the repo and see ho I am doing**
+**WoderWriters is the project currently I am working on and , please find the repo and see how I am doing**
 
 **This is my new Github account because my original one was hacked and I still didn't receive any support reply from the Github team.**
 
