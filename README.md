@@ -22,7 +22,7 @@ Education:
 [Visit my website to know more about me ](https://find-maheshi.netlify.app/)
 
 
-**This is my new Github account because my original one was hacked and I still didn't receive any support reply from the Github team.**
+**NOTE: This is my new Github account because my original one was hacked and I still didn't receive any support reply from the Github team.**
 The Github team can ignore my request, yet I need  commits and push changes to repos and show people that I am a zealous programmer!
 Wait here until I resolve my issue with Github!
 The worst part is I miss a lot my contribution grid with green tiles, it was such a motivation for me!
