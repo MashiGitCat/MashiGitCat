@@ -9,7 +9,7 @@ Technologies I am best at:
 
 Education:
 
-**Bsc IT & Management- (Java, C, Data Structures & Alogorithms, AI, Calculus)**
+**Bsc Hons. IT & Management- (Java, C, Data Structures & Alogorithms, AI, Calculus)**
 
 **Masters of Business Administration**
 
