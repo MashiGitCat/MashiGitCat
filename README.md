@@ -1,4 +1,4 @@
-## Welcome to Maheshi's Github aka MashiGitCat 👋
+## Welcome to Maheshi's Github (MashiGitCat)  👋
 
 **I am Maheshi an aspiring full stack developer.**
 
