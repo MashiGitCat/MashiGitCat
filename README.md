@@ -1,6 +1,10 @@
 ## Welcome to Maheshi's Github aka MashiGitCat 👋
 
-**I am Maheshi an aspiring full stack developer  and I love to code and make beautiful creations.** Sometimes it is a very big challenge for me but I love to be challenged and win them.
+**I am Maheshi an aspiring full stack developer.**
+
+**I love to code and make beautiful creations.** 
+
+Sometimes it is a very big challenge for me but I love to be challenged and win them.
 **WoderWriters is the project currently I am working on and , please find the repo and see how I am doing**
 
 Technologies I am best at:
