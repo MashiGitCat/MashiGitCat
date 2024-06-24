@@ -8,6 +8,7 @@ Technologies I am best at:
 **HTML/CSS/Sass/Typescript/Javascript/React/Next/MongoDB/MySQL/Node/Material UI/TailwindCSS/Bootstrap/REST API**
 
 Education:
+
 **Bsc IT & Management- (Java, C, Data Structures & Alogorithms, AI, Calculus)**
 
 **Masters of Business Administration**
