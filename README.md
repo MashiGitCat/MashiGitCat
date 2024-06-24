@@ -16,7 +16,6 @@
 [Visit my website to know more about me](https://find-maheshi.netlify.app/)
 
 ---
-
 <p style="color: #FA9EBC;"><strong>NOTE: This is my new Github account because my original one was hacked and I still didn't receive any support reply from the Github team.</strong></p>
 <p>The Github team can ignore my request, yet I need commits and push changes to repos and show people that I am a zealous programmer!</p>
 <p>Wait here until I resolve my issue with Github!</p>
