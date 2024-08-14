@@ -1,4 +1,5 @@
 ## Welcome to Maheshi's Github (MashiGitCat) 😺
+![GitHub Snake](./dist/snake.svg)
 <p style="color: #6E68BD;"><strong>I am Maheshi, an aspiring full stack developer.</strong></p>
 <p style="color: #FA9EBC;"><strong>I love to code and make beautiful creations.</strong></p>
 
