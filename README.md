@@ -14,6 +14,7 @@
 ## My stack:
 - 3+ years of experience in javascript, Node.js, Express.js , async, await
 - 2+ years of experience in React
+- Next.JS
 - ❤️ API, RESTful API
 - HTML/CSS/Sass, Typescript
 - Tailwind CSS, Bootstrap, Daisy UI, Material UI
