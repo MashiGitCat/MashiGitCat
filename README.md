@@ -71,7 +71,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <code><img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  /></code>
   <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knexjs/knexjs-original.svg" /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knexjs/knexjs-original.svg" height="30" /></code>
   <img width="12" />
   <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />  </code>
   <img width="12" />
