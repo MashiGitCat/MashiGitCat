@@ -65,6 +65,13 @@
   
 </div>
 
+
+## My Education:
+- Bsc.Honours IT & Management
+- MBA
+- Software Engineering Diploma
+
+
 ## NOTE:
 <p><strong>My previous GitHub account was unfortunately compromised, and I had to create this new account. I'm still waiting for a response from GitHub support. I really miss my old contribution grid, as it was a great motivation for me!</strong></p>
 
