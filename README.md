@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi, I'm Maheshi 👋 </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MashiGitCat.MashiGitCat&left_color=royalblue&right_color=black" />
 <h3 align="center">Aspiring Full Stack Developer from Canada </h3>
 
 ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/on backend </br>
