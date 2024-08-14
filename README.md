@@ -72,6 +72,6 @@
 ![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
 
 ##
-<img src= https://github.com/user-attachments/assets/8f39c007-e498-4c4c-a529-cd7d504096c8
+<img src= https://octodex.github.com/images/benevocats.png
  width="70"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
 
