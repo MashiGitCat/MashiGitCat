@@ -73,5 +73,5 @@
 
 ##
 <img src= https://github.com/user-attachments/assets/8f39c007-e498-4c4c-a529-cd7d504096c8
- width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
+ width="70"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
 
