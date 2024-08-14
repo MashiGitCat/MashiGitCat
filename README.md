@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 - 2+ years of experience in React
 - ❤️ API, RESTful API
 - HTML/CSS/Sass, Typescript
+- Tailwind CSS, Bootstrap, Daisy UI, Material UI
 - git, Tortise SVN, CI/CD
 - SQL, MySQL,  MongoDB
 - LocalStorage, SessionStorage, JWT
@@ -70,13 +71,11 @@ Here are some ideas to get you started:
   <img width="12" />
   <code><img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  /></code>
   <img width="12" />
-  <code><img src="https://raw.githubusercontent.com/saadeghi/daisyui/master/docs/images/logo.svg" height="30" alt="daisyui logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knexjs/knexjs-original.svg" /></code>
   <img width="12" />
-  <code><img src="https://raw.githubusercontent.com/tailwindlabs/heroicons/master/logo.svg" height="30" alt="tailwind logo"  /></code>
+  <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />  </code>
   <img width="12" />
-  <code><img src="https://raw.githubusercontent.com/knex/knex/main/media/logo.svg" height="30" alt="knex logo"  /></code>
-  <img width="12" />
-  <code><img src="https://raw.githubusercontent.com/greensock/GSAP/master/logo/logo.svg" height="30" alt="gsap logo"  /></code>
+  
 </div>
 
 
