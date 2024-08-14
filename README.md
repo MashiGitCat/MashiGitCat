@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 
 ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/on backend
 🤔 I'm currently working Wondewrieters Project using React/ MongoDB/ Node.JS and Typescript.
-
 ✨ I study: Java
+[Visit my website to know more about me](https://find-maheshi.netlify.app/)
 
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
 ## My stack:
 - 3+ years of experience in javascript, Node.js, Express.js , async, await
-- 1+ years of experience in Rust
+- 2+ years of experience in React
 - ❤️ API, RESTful API
 - HTML/CSS/Sass, Typescript
 - git, Tortise SVN, CI/CD
@@ -45,17 +45,10 @@ Here are some ideas to get you started:
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /></code>
   <img width="12" />
-  
-
-  
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></code>
   <img width="12" />
   <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /></code>
   <img width="12" />
-  
- 
- 
-  
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  /></code>
   <img width="12" />
   <code><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  /></code>
@@ -78,6 +71,7 @@ Here are some ideas to get you started:
 
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
+
 
 
 
