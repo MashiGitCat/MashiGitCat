@@ -9,7 +9,7 @@
 ✨ I study: Java</br>
 [Visit my website to know more about me](https://find-maheshi.netlify.app/)
 
-<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
+<img align="right" src="[https://octodex.github.com/images/welcometocat.png](https://octodex.github.com/images/hula_loop_octodex03.gif)" width="300">
 
 ## My stack:
 - 3+ years of experience in javascript, Node.js, Express.js , async, await
