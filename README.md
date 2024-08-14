@@ -5,7 +5,7 @@
 <h3 align="center">Aspiring Full Stack Developer from Canada </h3>
 
 ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/on backend </br>
-🤔 I'm currently working Wondewrieters Project using React/ MongoDB/ Node.JS and Typescript.</br>
+🤔 I'm currently working Wondewrieters Project using React/ MongoDB/ Node.JS/ MUI and Typescript.</br>
 ✨ I study: Java</br>
 [Visit my website to know more about me](https://find-maheshi.netlify.app/)
 
