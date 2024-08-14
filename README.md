@@ -73,5 +73,5 @@
 
 ##
 <img src= https://octodex.github.com/images/benevocats.png
- width="70"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
+ width="75"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
 
