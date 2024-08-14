@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi, I'm Maheshi 👋 </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MashiGitCat.WonderWriters&left_color=royalblue&right_color=black" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MashiGitCat&left_color=royalblue&right_color=black" />
 
 <h3 align="center">Aspiring Full Stack Developer from Canada </h3>
 
