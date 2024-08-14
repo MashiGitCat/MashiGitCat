@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  />
 <h3 align="center">Aspiring Full Stack Developer from Canada </h3>
 
-❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/on backend
-🤔 I'm currently working Wondewrieters Project using React/ MongoDB/ Node.JS and Typescript.
-✨ I study: Java
+❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/on backend </br>
+🤔 I'm currently working Wondewrieters Project using React/ MongoDB/ Node.JS and Typescript.</br>
+✨ I study: Java</br>
 [Visit my website to know more about me](https://find-maheshi.netlify.app/)
 
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
@@ -72,32 +72,3 @@ Here are some ideas to get you started:
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
 
-
-
-
-
-
-
-
-## Welcome to Maheshi's Github (MashiGitCat) 😺
-![Snake animation](https://raw.githubusercontent.com/{MashiGitCat}/{MashiGitCat}/output/github-contribution-grid-snake-dark.svg)
-<p style="color: #6E68BD;"><strong>I am Maheshi, an aspiring full stack developer.</strong></p>
-<p style="color: #FA9EBC;"><strong>I love to code and make beautiful creations.</strong></p>
-
-<p>It is  challenging , but I love to be challenged and win them.</p>
-<p style="color: #C6D8FF;"><strong>WonderWriters is the project currently I am working on, please find the repo and see how I am doing. </strong></p>
-
-### Technologies I am best at:
-<p style="color: #6E68BD;"><strong>HTML/CSS/Sass/Typescript/Javascript/React.js/Next.js/MongoDB/MySQL/Node.js/Material UI/TailwindCSS/Bootstrap/REST API</strong></p>
-
-### Education:
-<p style="color: #FA9EBC;"><strong>Bsc Hons. IT & Management- (Java, C, Data Structures & Alogorithms, AI, Calculus)</strong></p>
-<p style="color: #C6D8FF;"><strong>Masters of Business Administration</strong></p>
-<p style="color: #6E68BD;"><strong>Software Engineering Diploma</strong></p>
-
-[Visit my website to know more about me](https://find-maheshi.netlify.app/)
-
----
-<p style="color: #FA9EBC;"><strong>NOTE: This is my new Github account because my original one was down, and I am still waiting for Github support.</strong></p>
-<p>Wait here until I resolve my issue with Github!</p>
-<p>The worst part is I miss a lot my contribution grid with green tiles, it was such a motivation for me!</p>
