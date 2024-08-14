@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## Languages and Tools:
 <div align="left">
- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /></code>
   <img width="12" />
@@ -57,10 +57,26 @@ Here are some ideas to get you started:
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  /></code>
   <img width="12" />
- 
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  /></code>
+  <img width="12" />
+  <!-- Add the following logos -->
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="mui logo"  /></code>
+  <img width="12" />
+  <code><img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  /></code>
+  <img width="12" />
+  <code><img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  /></code>
+  <img width="12" />
+  <code><img src="https://raw.githubusercontent.com/saadeghi/daisyui/master/docs/images/logo.svg" height="30" alt="daisyui logo"  /></code>
+  <img width="12" />
+  <code><img src="https://raw.githubusercontent.com/tailwindlabs/heroicons/master/logo.svg" height="30" alt="tailwind logo"  /></code>
+  <img width="12" />
+  <code><img src="https://raw.githubusercontent.com/knex/knex/main/media/logo.svg" height="30" alt="knex logo"  /></code>
+  <img width="12" />
+  <code><img src="https://raw.githubusercontent.com/greensock/GSAP/master/logo/logo.svg" height="30" alt="gsap logo"  /></code>
 </div>
 
 
